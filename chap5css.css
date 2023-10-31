@@ -1,0 +1,11 @@
+.container{
+    font-size: 34px;
+    background-color: red;
+    color:whitesmoke;
+    min-height: 50vh;
+    width: 200px;
+    
+}
+.box{
+    font-size: 3rem;
+}
